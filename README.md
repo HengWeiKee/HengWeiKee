@@ -1,16 +1,13 @@
-## Hi there 👋
+# Self-Introduction 😄
 
-<!--
-**HengWeiKee/HengWeiKee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm weikee, a degree student pursuing computing science in UOW malaysia.
+I currently interesting on the skill of data analyst and machine learning.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Language: Python, C#, C++, Java
+- Library: Numpy, Pandas
+
+## Tools
+
+- Version Control: Github
